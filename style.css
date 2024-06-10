@@ -43,4 +43,18 @@ pre{
     pre{max-width: 100%;overflow-x: auto;}
 }
 
+.copy-button {
+    cursor: pointer;
+    float: right;
+    padding: 5px;
+    margin-top: -2px;
+    margin-right: -8px;
+}
 
+pre {
+    position: relative;
+    padding: 6px 10px;
+    width: fit-content;
+    background-color: #121212;
+    color: #e2e2e2;
+}
